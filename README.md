@@ -5,8 +5,7 @@
 </h1>
 ```cs
 
-using System;
-using Git.*;
+
 
 namespace IamSeji
 {
@@ -14,10 +13,13 @@ namespace IamSeji
     {
        static void Main()
        {
-           // >>> Git will run my code see bottom
-            SejiMe itsMe = new SejiMe();
-            itsMe.Display();
-            GitHub.Run(itsMe)
+            using GitHub
+            {
+                // >>> Git will run my code see bottom
+                SejiMe itsMe = new SejiMe();
+                itsMe.Display();
+                GitHub.Run(itsMe)
+            }
        }
     }
     
