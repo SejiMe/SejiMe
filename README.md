@@ -6,7 +6,48 @@
 
 ```csharp
 
-foreach()
+
+
+using GitHub.*;
+using System;
+
+namespace IamSeji
+{
+    class Program
+    {
+       static void Main()
+       {
+            // >>> Git will run my code see bottom
+            SejiMe itsMe = new SejiMe();
+            itsMe.Display();
+            GitHub.Run(itsMe)
+       }
+    }
+    
+    // >>> My Profile Class
+    public class SejiMe
+    {
+        private string[] _Skills {get; set;}
+        private int _Knowledge {get; set;}
+        private string Name {get; set;}
+
+       public SejiMe()
+       {
+            _Skills = new string[5];
+            _Skills[0] = "Programming";
+            _Skills[1] = "C#";
+            _Skills[2] = "SQL";
+            _Skills[3] = "Python 3";
+            _Skills[4] = "Unity";
+            _Knowledge = 1;
+            Name = "Cer Jivan Atienza"
+       }
+       public void Display()
+       {
+           Git.Show(SejiMe);
+       }
+    }
+}
 
 ```
 
