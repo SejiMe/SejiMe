@@ -44,7 +44,7 @@ namespace IamSeji
        }
        public void Display()
        {
-           Git.Show(SejiMe);
+           GitHub.Show(SejiMe);
        }
     }
 }
