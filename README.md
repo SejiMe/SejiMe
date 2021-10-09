@@ -59,5 +59,5 @@ namespace IamSeji
 - 🔭 I’m currently working on AtCad and 
 - 🌱 I’m currently learning C#
 -  ⚡ Fun fact: I crave a lot
-- 🤔 I’m looking for help with ...
+
 <img align="left" src ="https://visitor-badge.laobi.icu/badge?page_id=SejiMe/SejiMe">
