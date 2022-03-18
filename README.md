@@ -37,8 +37,9 @@ namespace IamSeji
             _Skills[0] = "Programming";
             _Skills[1] = "C#";
             _Skills[2] = "SQL";
-            _Skills[3] = "Python 3";
-            _Skills[4] = "Unity";
+            _Skills[3] = "ReactJS";
+            _Skills[4] = "Redux";
+            _Skills[5] = "Unity";
             _Knowledge = 1;
             Name = "Cer Jivan Atienza"
        }
@@ -53,11 +54,11 @@ namespace IamSeji
 
 
 
+<a href=""https://www.facebook.com/jaeger0o0/ target="_blank">
 
 
-
-- 🔭 I’m currently working on AtCad and 
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working on AtCad and Web Based Rabbitry 
+- 🌱 I’m currently learning in MERN Path 
 -  ⚡ Fun fact: I crave a lot
 
 <img align="left" src ="https://visitor-badge.laobi.icu/badge?page_id=SejiMe/SejiMe">
