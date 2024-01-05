@@ -34,12 +34,10 @@ namespace IamSeji
        public SejiMe()
        {
             _Skills = new string[5];
-            _Skills[0] = "Programming";
-            _Skills[1] = "C#";
-            _Skills[2] = "SQL";
-            _Skills[3] = "ReactJS";
-            _Skills[4] = "Redux";
-            _Skills[5] = "Unity";
+            _Skills[0] = "Web Development";
+            _Skills[1] = "Desktop Development";
+            _Skills[2] = "MSSQL";
+            _Skills[3] = "C#";
             _Knowledge = 1;
             Name = "Cer Jivan Atienza"
        }
