@@ -1,13 +1,13 @@
 <h1 align="center">
-    <a href= "https://git.io/typing-svg">
-        <img src =https://readme-typing-svg.herokuapp.com?font=roboto&color=130EF7&size=24&center=true&vCenter=true&width=700&height=70&lines=Welcome+to+my+Git+%F0%9F%98%81;Where+in+GitHub+I+Trust+my+safe;I+am+SejiMe+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB)>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B73EE&center=true&vCenter=true&random=false&width=435&lines=Welcome+Visitor+%F0%9F%91%8B;I'm+a+%3D%3E+Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Enjoy+your+Visit%F0%9F%98%8A" alt="Typing SVG" />
     </a>
 </h1>
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SejiMe&hide_border=true&theme=transparent&layout=donut" />
-    <img src="https://streak-stats.demolab.com?user=SejiMe&theme=transparent&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&type=png" />
+  <img src="https://streak-stats.demolab.com?user=SejiMe&theme=transparent&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&type=png" />
 </p>
 
 
