@@ -4,6 +4,14 @@
     </a>
 </h1>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SejiMe&hide_border=true&theme=transparent&layout=donut" />
+    <img src="https://streak-stats.demolab.com?user=SejiMe&theme=transparent&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&type=png" />
+</p>
+
+
+
 ```csharp
 
 
