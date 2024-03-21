@@ -26,7 +26,7 @@ namespace IamSeji
        static void Main()
        {
             // >>> Git will run my code see bottom
-            SejiMe itsMe = new SejiMe();
+            SejiMe itsMe = new();
             itsMe.Display();
             GitHub.Run(itsMe)
        }
